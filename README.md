@@ -1,7 +1,3 @@
 <html>
-  <head>
-    <title>
-      selman
-    </title>
-  </head>
- </html>
+  <img src="cilek.jpg">
+</html>
